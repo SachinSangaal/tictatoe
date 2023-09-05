@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: linear-gradient(90deg , #0be79e,#a011e7,#911d91);
+    color:darkgreen;
+    height: 75px;
+    font-size:27px;
+    align-items: center;
+    padding: 0 15px;
+    font-family: 'Roboto', sans-serif;
+}
+nav ul{
+      list-style-type: none;
+    text-decoration: none;
+
+
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+li
+{
+    list-style-type: none;
+    padding:7px;
+    text-decoration: none;
+
+}
+li:hover{
+    background:yellow;
+    border-radius: 3px;
+}
