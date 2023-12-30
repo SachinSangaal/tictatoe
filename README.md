@@ -15,8 +15,4 @@ To run the game locally:
 
 1. Clone this repository.
 2. Open the index.html file in your preferred web browser.
-## Screenshots/Recordings
-You can find screenshots or recordings of the project in the following locations:
 
-/screenshots directory
-/recordings directory
