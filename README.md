@@ -10,9 +10,3 @@ This project is a simple implementation of the classic Tic-Tac-Toe game that all
 3. Clear instructions for playing the game
 4. Visual indicators for player turns
 5. Winning conditions highlighted
-## Usage
-To run the game locally:
-
-1. Clone this repository.
-2. Open the index.html file in your preferred web browser.
-
